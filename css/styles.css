@@ -1,0 +1,6 @@
+:root{--primary:#0d6efd}
+body{font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;line-height:1.6}
+.hero{height:320px;background:linear-gradient(135deg,var(--primary),#fffffe);margin-bottom:0;display:flex;align-items:center;justify-content:center}
+.placeholder-img{height:180px;background:linear-gradient(180deg, #eef2ff, #fff);display:block}
+.card-img-top{height:180px;object-fit:cover}
+.container h1{margin-bottom:1rem}
